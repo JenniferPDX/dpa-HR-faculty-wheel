@@ -1,0 +1,73 @@
+[
+  {
+    "name": "HARRIS",
+    "children": [
+      {
+        "colour": "#36483b",
+        "name": "TEACHING",
+        "children": [
+          { "colour": "#36483b", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
+          { "colour": "#36483b", "name": "PAP (Teach/exams/theses)", "size": 5 },
+          { "colour": "#36483b", "name": "ADDITIONAL UG COURSES", "size": 5 },
+          { "colour": "#36483b", "name": "PA 510: LABR RLTNS IN THE PUB SCTR", "size": 5 },
+          { "colour": "#36483b", "name": "PA 540: ADMIN THEORY-BEHAV", "size": 5 },
+          { "colour": "#36483b", "name": "PA 540: ADMINISTRATIVE THEORY-BEHAV", "size": 5 },
+          { "colour": "#36483b", "name": "PA 546: SUPERVSN/PUBLIC SECT", "size": 5 },
+          { "colour": "#36483b", "name": "PA 562: MANAGING EMPL PERF PUB SECTR", "size": 5 },
+          { "colour": "#36483b", "name": "PA 590: HUM RSRC MGMT PUBLIC", "size": 5 },
+          { "colour": "#36483b", "name": "PA 591: EMPLOYMENT LAW & POLICY", "size": 5 },
+          { "colour": "#36483b", "name": "PA 595: PUB SECTOR LABOR RELATIONS", "size": 5 },
+          { "colour": "#36483b", "name": "PAP 603: DISSERTATION", "size": 5 },
+           { "colour": "#36483b", "name": "PAP 615: ADMINISTRATIVE PROC", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "STUDENT ADVISING",
+        "children": [
+          { "colour": "#667A66", "name": "MPA/HA", "size": 5 },
+          { "colour": "#667A66", "name": "PAP", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#C0CCC0",
+        "name": "RESEARCH/SCHOL.",
+        "children": [
+         { "colour": "#C0CCC0", "name": "MILITARY / GENDER", "size": 5 },
+         { "colour": "#C0CCC0", "name": "MG ED JHHSA ??", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#ae4a1c",
+        "name": "COLLABORATIONS/=PARTNERS",
+        "children": [
+         { "colour": "#ae4a1c", "name": "PLACEHOLDER", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#fd8d3c",
+        "name": "COMS &=TASK FORCES",
+        "children": [
+         { "colour": "#fd8d3c", "name": "ADVISORY", "size": 5 },
+         { "colour": "#fd8d3c", "name": "INT' PUB MGT ASSOC/HR ?", "size": 5 },
+         { "colour": "#fd8d3c", "name": "MPP PLANNING COM", "size": 5 },
+         { "colour": "#fd8d3c", "name": "SUCC PLANNIG", "size": 5 },
+         { "colour": "#fd8d3c", "name": "MARKETING", "size": 5 },
+         { "colour": "#fd8d3c", "name": "P & T COMS", "size": 5 },
+         { "colour": "#fd8d3c", "name": "VETS COM ??", "size": 5 },
+         { "colour": "#fd8d3c", "name": "OD/HR CERT", "size": 5 },
+         { "colour": "#fd8d3c", "name": "AAUP UNIT REP", "size": 5 },
+         { "colour": "#fd8d3c", "name": "AAUP COUNCILOR AT LARGE", "size": 5 },
+         { "colour": "#fd8d3c", "name": "AAUP EXEC COUNCIL", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#fdbe85",
+        "name": "ADMINISTERS",
+        "children": [
+          { "colour": "#fdbe85", "name": "PLACEHOLDER", "size": 5 }
+        ]
+      }
+    ]
+  }
+]
