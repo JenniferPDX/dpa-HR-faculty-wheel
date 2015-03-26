@@ -1,5 +1,73 @@
 [
   {
+    "name": "COOPER",
+    "children": [
+      {
+        "colour": "#36483b",
+        "name": "TEACHING",
+        "children": [
+          { "colour": "#36483b", "name": "PAP (Teach/exams/theses)", "size": 5 },
+          { "colour": "#36483b", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
+          { "colour": "#36483b", "name": "LOCAL GOVERNANCE", "size": 5 },
+          { "colour": "#36483b", "name": "INTERGOVERNMENTAL RELATIONS", "size": 5 },
+          { "colour": "#36483b", "name": "ADMININSTRATIVE LAW", "size": 5 },
+          { "colour": "#36483b", "name": "PA 533: PUBLIC POL:ORIG/PROC", "size": 5 },
+          { "colour": "#36483b", "name": "PA 534: ADMINISTRATIVE LAW", "size": 5 },
+          { "colour": "#36483b", "name": "PA 542: SUSTAINABLE DVLP IMPLMNTN", "size": 5 },
+          { "colour": "#36483b", "name": "PA 556: PUBLIC CONTRACT MANAGEMENT", "size": 5 },
+          { "colour": "#36483b", "name": "PA 560: LOCAL GOVERNMENT ADMIN", "size": 5 },
+          { "colour": "#36483b", "name": "PA 561: INTERGOVERNMENTAL RELATIONS", "size": 5 },
+          { "colour": "#36483b", "name": "PA 593: CIVIL RIGHTS FOR PUBLIC MGRS", "size": 5 },
+          { "colour": "#36483b", "name": "PAP 612: GOVERN/PA/RULE LAW", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "STUDENT ADVISING",
+        "children": [
+          { "colour": "#667A66", "name": "MPA, PAP", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#C0CCC0",
+        "name": "RESEARCH/SCHOL.",
+        "children": [
+          { "colour": "#C0CCC0", "name": "CPS (HATFIELD)", "size": 5 },
+          { "colour": "#C0CCC0", "name": "PLACEHOLDER", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#ae4a1c",
+        "name": "COLLABORATIONS/=PARTNERS",
+        "children": [
+          { "colour": "#ae4a1c", "name": "NAT'L ACA OF PUB ADMIN, FELLOW", "size": 5 },
+          { "colour": "#ae4a1c", "name": "LOCAL GOVT ADVISORY COM", "size": 5 },
+          { "colour": "#ae4a1c", "name": "OR INT'L CITY/CTY MGT ASSOC", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#fd8d3c",
+        "name": "COMS &=TASK FORCES",
+        "children": [
+          { "colour": "#fd8d3c", "name": "DIVERSITY COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "CPS REVIEW COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "MPA/HEATH CHAIR", "size": 5 },
+          { "colour": "#fd8d3c", "name": "ADMISSION COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "MARKETING COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "P&T COMS, CHAIR, MEMBER", "size": 5 },
+          { "colour": "#fd8d3c", "name": "DEAN'S STRAT PLAN COUNCIL", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#fdbe85",
+        "name": "ADMINISTERS",
+        "children": [
+          { "colour": "#fdbe85", "name": "LOCAL GOVERNMENT, FACULTY LEAD", "size": 5 }
+        ]
+      }
+    ]
+  },
+  {
     "name": "HARRIS",
     "children": [
       {
@@ -25,8 +93,7 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          { "colour": "#667A66", "name": "MPA/HA", "size": 5 },
-          { "colour": "#667A66", "name": "PAP", "size": 5 }
+          { "colour": "#667A66", "name": "MPA, MPA:HA, PAP", "size": 5 }
         ]
       },
       {
@@ -34,7 +101,8 @@
         "name": "RESEARCH/SCHOL.",
         "children": [
          { "colour": "#C0CCC0", "name": "MILITARY / GENDER", "size": 5 },
-         { "colour": "#C0CCC0", "name": "MG ED JHHSA ??", "size": 5 }
+         { "colour": "#C0CCC0", "name": "INSTITUTIONAL EQUITY ISSUES", "size": 5 },
+         { "colour": "#C0CCC0", "name": "JHHSA, MG ED", "size": 5 }
         ]
       },
       {
@@ -65,7 +133,86 @@
         "colour": "#fdbe85",
         "name": "ADMINISTERS",
         "children": [
-          { "colour": "#fdbe85", "name": "PLACEHOLDER", "size": 5 }
+          { "colour": "#fdbe85", "name": "HUMAN RESOURCES, FACULTY LEAD", "size": 5 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "NISHISHIBA",
+    "children": [
+      {
+        "colour": "#36483b",
+        "name": "TEACHING/=GENERAL, LG & GL",
+        "children": [
+          { "colour": "#36483b", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
+          { "colour": "#36483b", "name": "PA 510: ADVANCED CASE ANALYSIS", "size": 5 },
+          { "colour": "#36483b", "name": "PA 510: PUBLIC LEADERSHIP & CULT COMP", "size": 5 },
+          { "colour": "#36483b", "name": "PA 510: INTERNATIONAL FIELD EXP", "size": 5 },
+          { "colour": "#36483b", "name": "PA 510: INTERNATIONAL FIELD EXP KOREA", "size": 5 },
+          { "colour": "#36483b", "name": "PA 519: CIVIC CAPACITY", "size": 5 },
+          { "colour": "#36483b", "name": "PA 549: CROSSCULT COMM/PUBL", "size": 5 },
+          { "colour": "#36483b", "name": "PA 551: ANALYTIC METHODS PA I", "size": 5 },
+          { "colour": "#36483b", "name": "PA 552: ANALYTIC METHODS PA II", "size": 5 },
+          { "colour": "#36483b", "name": "PA 594: ENHANC DIVERSITY/ WORKPLACE", "size": 5 },
+          { "colour": "#36483b", "name": "WORLD LANGUAGES: JAPANESE", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "STUDENT ADVISING",
+        "children": [
+          { "colour": "#667A66", "name": "MPA, EMPA, PAP", "size": 5 },
+          { "colour": "#667A66", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#C0CCC0",
+        "name": "RESEARCH/SCHOL.",
+        "children": [
+          { "colour": "#C0CCC0", "name": "CPS (HATFIELD)", "size": 5 },
+          { "colour": "#C0CCC0", "name": "METHODS", "size": 5 },
+          { "colour": "#C0CCC0", "name": "EQUITY, DIVERSITY, INCLUSION", "size": 5 },
+          { "colour": "#C0CCC0", "name": "CAPACITY BLDG FOR COMMON GOOD", "size": 5 },
+          { "colour": "#C0CCC0", "name": "NEW PUB GOVERNANCE, CIVIC CAP", "size": 5 },
+          { "colour": "#C0CCC0", "name": "LOCAL GOVERNMENT, CRIME RATE", "size": 5 },
+          { "colour": "#C0CCC0", "name": "TRADITIONS OF CIVIC ENGAGE,US", "size": 5 },
+          { "colour": "#C0CCC0", "name": "INTERNATIONALIZATION AT PSU", "size": 5 },
+          { "colour": "#C0CCC0", "name": "COMMISSION FORM OF GOVERNMENT", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#ae4a1c",
+        "name": "COLLABORATIONS/=PARTNERS",
+        "children": [
+          { "colour": "#ae4a1c", "name": "CPS (CORE FACULTY)", "size": 5 },
+          { "colour": "#ae4a1c", "name": "TOKYO FNDN JPN LOC GOVT MGMT TRAIN PROG", "size": 5 },
+          { "colour": "#ae4a1c", "name": "SEOUL METRO GOVT PROG", "size": 5 },
+          { "colour": "#ae4a1c", "name": "OR BD MASSAGE THERAPISTS", "size": 5 },
+          { "colour": "#ae4a1c", "name": "PORTLAND POLICE BUREAU", "size": 5 },
+          { "colour": "#ae4a1c", "name": "CLACKAMAS COUNTY", "size": 5 },
+          { "colour": "#ae4a1c", "name": "CITY OF BEAVERTON", "size": 5 },
+          { "colour": "#ae4a1c", "name": "OR DEPT ADMIN SERVS", "size": 5 },
+          { "colour": "#ae4a1c", "name": "TUALATIN HILLS PARK & REC", "size": 5 },
+          { "colour": "#ae4a1c", "name": "JAPAN AMERICAN SOC OF OR", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#fd8d3c",
+        "name": "COMS &=TASK FORCES",
+        "children": [
+          { "colour": "#fd8d3c", "name": "ASPA INTER GOVTL ADMIN/MGMT, BD", "size": 5 },
+          { "colour": "#fd8d3c", "name": "DIVERSITY COMMITTEE, PA, PSU", "size": 5 },
+          { "colour": "#fd8d3c", "name": "DIVERSITY ACTION COUNCIL, PSU", "size": 5 },
+          { "colour": "#fd8d3c", "name": "TOKYO FOUNDATION, ADVISORY COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "CENTER FOR JAPANESE STUDIES, PSU", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#fdbe85",
+        "name": "ADMINISTERS",
+        "children": [
+          { "colour": "#fdbe85", "name": "CENTER FOR PUBLIC SERVICE, ASSOC DIR", "size": 5 }
         ]
       }
     ]
