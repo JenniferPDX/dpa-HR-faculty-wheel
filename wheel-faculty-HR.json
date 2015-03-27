@@ -49,7 +49,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
           { "colour": "#fd8d3c", "name": "DIVERSITY COM", "size": 5 },
           { "colour": "#fd8d3c", "name": "CPS REVIEW COM", "size": 5 },
@@ -104,7 +104,7 @@
         "children": [
          { "colour": "#C0CCC0", "name": "MILITARY / GENDER", "size": 5 },
          { "colour": "#C0CCC0", "name": "INSTITUTIONAL EQUITY ISSUES", "size": 5 },
-         { "colour": "#C0CCC0", "name": "JHHSA, MG ED", "size": 5 }
+         { "colour": "#C0CCC0", "name": "JHHSA, MG ED (PROJ)", "size": 5 }
         ]
       },
       {
@@ -116,7 +116,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
          { "colour": "#fd8d3c", "name": "ADVISORY", "size": 5 },
          { "colour": "#fd8d3c", "name": "INT' PUB MGT ASSOC/HR ?", "size": 5 },
@@ -201,7 +201,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
           { "colour": "#fd8d3c", "name": "ASPA INTER GOVTL ADMIN/MGMT, BD", "size": 5 },
           { "colour": "#fd8d3c", "name": "DIVERSITY COMMITTEE, PA, PSU", "size": 5 },
