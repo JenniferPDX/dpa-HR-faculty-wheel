@@ -20,6 +20,7 @@
           { "colour": "#36483b", "name": "PA 560: LOCAL GOVERNMENT ADMIN", "size": 5 },
           { "colour": "#36483b", "name": "PA 561: INTERGOVERNMENTAL RELATIONS", "size": 5 },
           { "colour": "#36483b", "name": "PA 593: CIVIL RIGHTS FOR PUBLIC MGRS", "size": 5 },
+          { "colour": "#36483b", "name": "PA 605: READING & CONFERENCE", "size": 5 },
           { "colour": "#36483b", "name": "PAP 612: GOVERN/PA/RULE LAW", "size": 5 }
         ]
       },
@@ -35,7 +36,11 @@
         "name": "RESEARCH/SCHOL.",
         "children": [
           { "colour": "#C0CCC0", "name": "CPS (HATFIELD)", "size": 5 },
-          { "colour": "#C0CCC0", "name": "PLACEHOLDER", "size": 5 }
+          { "colour": "#C0CCC0", "name": "BY ORDER OF THE PRESIDENT, 2ND ED", "size": 5 },
+          { "colour": "#C0CCC0", "name": "COLUMBIA GORGE COMMISS PROJECT", "size": 5 },
+          { "colour": "#C0CCC0", "name": "PUB LAW REINFORCE OF ADMIN RESP", "size": 5 },
+          { "colour": "#C0CCC0", "name": "CIVIL RIGHTS IN PUBLIC SERVICE", "size": 5 },
+          { "colour": "#C0CCC0", "name": "POLICY TOOLS IN DESIGN PROCESS", "size": 5 }
         ]
       },
       {
@@ -77,17 +82,17 @@
         "name": "TEACHING",
         "children": [
           { "colour": "#36483b", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
+          { "colour": "#36483b", "name": "CIVIC LEADERSHIP", "size": 5 },
           { "colour": "#36483b", "name": "PAP (Teach/exams/theses)", "size": 5 },
           { "colour": "#36483b", "name": "ADDITIONAL UG COURSES", "size": 5 },
-          { "colour": "#36483b", "name": "PA 510: LABR RLTNS IN THE PUB SCTR", "size": 5 },
           { "colour": "#36483b", "name": "PA 540: ADMIN THEORY-BEHAV", "size": 5 },
-          { "colour": "#36483b", "name": "PA 540: ADMINISTRATIVE THEORY-BEHAV", "size": 5 },
           { "colour": "#36483b", "name": "PA 546: SUPERVSN/PUBLIC SECT", "size": 5 },
           { "colour": "#36483b", "name": "PA 562: MANAGING EMPL PERF PUB SECTR", "size": 5 },
           { "colour": "#36483b", "name": "PA 590: HUM RSRC MGMT PUBLIC", "size": 5 },
           { "colour": "#36483b", "name": "PA 591: EMPLOYMENT LAW & POLICY", "size": 5 },
           { "colour": "#36483b", "name": "PA 595: PUB SECTOR LABOR RELATIONS", "size": 5 },
-          { "colour": "#36483b", "name": "PAP 603: DISSERTATION", "size": 5 },
+          { "colour": "#36483b", "name": "PAP 603: THESIS CREDIT", "size": 5 },
+          { "colour": "#36483b", "name": "PAP 605: READING & CONFERENCE", "size": 5 },
            { "colour": "#36483b", "name": "PAP 615: ADMINISTRATIVE PROC", "size": 5 }
         ]
       },
@@ -95,15 +100,19 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          { "colour": "#667A66", "name": "MPA, MPA:HA, PAP", "size": 5 }
+          { "colour": "#667A66", "name": "MPA, MPA:HA, PAP", "size": 5 },
+          { "colour": "#667A66", "name": "PHD, SCHOOL OF SOCIAL WORK", "size": 5 }
         ]
       },
       {
         "colour": "#C0CCC0",
         "name": "RESEARCH/SCHOL.",
         "children": [
-         { "colour": "#C0CCC0", "name": "MILITARY / GENDER", "size": 5 },
-         { "colour": "#C0CCC0", "name": "INSTITUTIONAL EQUITY ISSUES", "size": 5 },
+         { "colour": "#C0CCC0", "name": "MILITARY", "size": 5 },
+         { "colour": "#C0CCC0", "name": "GENDER EQUITY", "size": 5 },
+         { "colour": "#C0CCC0", "name": "CIVIL RIGHTS", "size": 5 },
+         { "colour": "#C0CCC0", "name": "HEALTH CARE", "size": 5 },
+         { "colour": "#C0CCC0", "name": "INSTITUTIONAL ISSUES", "size": 5 },
          { "colour": "#C0CCC0", "name": "JHHSA, MG ED (PROJ)", "size": 5 }
         ]
       },
@@ -111,7 +120,10 @@
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
-         { "colour": "#ae4a1c", "name": "PLACEHOLDER", "size": 5 }
+         { "colour": "#ae4a1c", "name": "VETERANS RESOURCE CENTER", "size": 5 },
+         { "colour": "#ae4a1c", "name": "WOMEN'S RESOURCE CENTER", "size": 5 },
+         { "colour": "#ae4a1c", "name": "IPMA-HR, OR & PDX CHAPTERS", "size": 5 },
+         { "colour": "#ae4a1c", "name": "CITY OF PORTLAND, BUREAU OF HR", "size": 5 }
         ]
       },
       {
@@ -157,6 +169,7 @@
           { "colour": "#36483b", "name": "PA 551: ANALYTIC METHODS PA I", "size": 5 },
           { "colour": "#36483b", "name": "PA 552: ANALYTIC METHODS PA II", "size": 5 },
           { "colour": "#36483b", "name": "PA 594: ENHANC DIVERSITY/ WORKPLACE", "size": 5 },
+          { "colour": "#36483b", "name": "PA 605: READING & CONFERENCE", "size": 5 },
           { "colour": "#36483b", "name": "WORLD LANGUAGES: JAPANESE", "size": 5 }
         ]
       },
